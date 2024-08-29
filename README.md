@@ -1,0 +1,1 @@
+This repo contains the netflix landing and sign in pages clones.
